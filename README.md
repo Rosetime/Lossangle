@@ -1,17 +1,2 @@
 # Lossangle
-
-hello world 
-
-and 
-
-
-you 
-
-
-are 
-
-
-
-so best
-
-
+hello world
